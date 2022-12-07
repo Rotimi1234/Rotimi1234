@@ -1,6 +1,6 @@
 # Hi there, I'm Damilare - aka [dami_codes] 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://damidev.com)
+[![Website](https://img.shields.io/website?label=dami.vercel.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dami.vercel.app/)
 
 ## I'm a Brother, Young Developer, and Student!!
 
